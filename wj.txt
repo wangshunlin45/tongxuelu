@@ -1,5 +1,0 @@
-git init  # 初始化本地Git仓库
-git add . # 添加所有文件到暂存区
-git config --global user.name "wangshunlin45"  # 配置GitHub用户名
-git config --global user.email "3450140198@qq.com" # 配置GitHub绑定邮箱
-git commit -m "上传AdminPHP0.1项目文件"  # 提交说明，可自定义
